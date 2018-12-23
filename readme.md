@@ -1,0 +1,1 @@
+<img src="img/bookmark_snapshot.png" alt="movie list" width="100%;">
